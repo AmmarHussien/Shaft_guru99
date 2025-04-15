@@ -1,0 +1,22 @@
+{
+  "user": {
+    "blank": "Customer name must not be blank"
+  },
+  "address": {
+    "blank": "Address Field must not be blank"
+  },
+  "city": {
+    "blank": "City Field must not be blank"
+  },
+  "state": {
+    "blank": "State must not be blank"
+  },
+  "pin": {
+    "blank": "PIN Code must not be blank"
+  },
+  "string": "Characters are not allowed",
+  "min": "PIN Code must have 6 Digits",
+  "number": "Numbers are not allowed",
+  "specialCharacter": "Special characters are not allowed",
+  "space": "First character can not have space"
+}

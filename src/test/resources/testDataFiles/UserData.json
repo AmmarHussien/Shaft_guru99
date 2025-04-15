@@ -1,0 +1,20 @@
+{
+  "User": {
+    "Name": "Ammar Hussein",
+    "Gender": "female",
+    "DateOfBirth": "04011997",
+    "Address": "5St 15 Wadi hof",
+    "NewAddress": "5St 15 Wadi hof, Hellwan, Cairo, Egypt",
+    "City": "Cairo",
+    "State": "Hellwan",
+    "Pin": "123456",
+    "MobileNumber": "01146082989",
+    "Email": "test@test97.com",
+    "Password": "Test1234",
+    "Account": {
+      "type": "Savings",
+      "_note_type": "Allowed values: Savings or Current only",
+      "amount": "999999"
+    }
+  }
+}
