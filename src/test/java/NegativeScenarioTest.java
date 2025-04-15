@@ -68,6 +68,7 @@ public class NegativeScenarioTest {
                 validationMessages.getTestData("number"),
                 validationMessages.getTestData("specialCharacter"),
                 validationMessages.getTestData("space")
+
         );
     }
 
